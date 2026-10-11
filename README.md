@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Nana Yaa 👋
 
-<!--
-**nanayaa-png/nanayaa-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring web developer learning by building real projects. I enjoy turning ideas into websites and improving my skills with every project I create.
 
-Here are some ideas to get you started:
+### What I'm working with
+- HTML
+- CSS
+- JavaScript (learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+**[My Portfolio](https://nanayaa-png.github.io/my-portfolio/)**  
+My personal website showcasing my work and web development journey.
+
+**[Diva Trendy](https://nanayaa-png.github.io/diva-trendy/)**  
+A fashion and accessories shopping website project.
+
+**[The Living Saint School](https://nanayaa-png.github.io/the-living-saint-school/)**  
+A website project for a school.
+
+### A little about me
+- 🌱 Learning and improving my web development skills
+- 💻 Building projects to gain practical experience
+- 🤝 Open to learning, collaborations, and new opportunities
+
+### Find me online
+- **Portfolio:** [nanayaa-png.github.io/my-portfolio](https://nanayaa-png.github.io/my-portfolio/)
+- **GitHub:** [@nanayaa-png](https://github.com/nanayaa-png)
